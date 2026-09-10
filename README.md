@@ -2,7 +2,7 @@
 
 ## Objectives:
 
-This lab is designed to have you do a complex "join" using SQL. The goal of this assignmwnt is understand how *joins* play a common role in many data analysis problems. In the past, I've had students solve this problem using Hadoop and then using Spark;
+This lab is designed to have you do a complex "join" using SQL. The goal of this assignment is understand how *joins* play a common role in many data analysis problems. In the past, I've had students solve this problem using Hadoop and then using Spark;
 Hadoop is (rightfully) becoming less important so we're going to solve it using SQL and then solve it using Spark.
 
 It's difficult to implement joins in Hadoop manually
